@@ -1,0 +1,4 @@
+Add in buttons for page
+Add home page for streamlit app
+Add page for adding contacts to database
+Set up support for movies/tv shows and potentially emails and text messages
